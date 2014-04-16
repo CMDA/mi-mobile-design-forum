@@ -14,7 +14,7 @@ Leg duidelijk uit waar je issue over gaat. Lees het even terug voor je het publi
 
 ### De juiste labels
 
-Jullie kunnen geen labels toevoegen, alleen moderators kunnen dat. Voorlopig zet je de labels in de titel als volgt: <Bevinding/Vraag om hulp/Vraag> / <Thema>: <Titel>
+Jullie kunnen geen labels toevoegen, alleen moderators kunnen dat. Voorlopig zet je de labels in de titel als volgt: &lt;Bevinding/Vraag om hulp/Vraag> / &lt;Thema>: &lt;Titel>
 
 Dat ziet er dan bijvoorbeeld zo uit:
 
