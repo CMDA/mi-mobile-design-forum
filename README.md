@@ -1,7 +1,7 @@
 Design for Mobile, forum
 ======================
 
-Deze repository is voor studenten die meedoen aan het vak Design for Mobile van de Minor Mobile Interaction aan de HvA. Elke week  vóór 13:37 op maandag moeten ze bevindingen, vragen en/of antwoorden over het onderzoek wat er gedaan wordt als [issue inschieten](https://github.com/CMDA/mi-mobile-design-forum/issues). 
+Deze repository is voor studenten die meedoen aan het vak Design for Mobile van de Minor Mobile Interaction aan de HvA. Elke week  vóór 13:37 op dinsdag moeten ze bevindingen, vragen en/of antwoorden over het onderzoek wat er gedaan wordt als [issue inschieten](https://github.com/CMDA/mi-mobile-design-forum/issues). 
 
 ## Hoe doe je dat?
 Maak een nieuw [issue aan](https://github.com/CMDA/mi-mobile-design-forum/issues), of geef antwoord op een bestaand issue. Elk issue **moet** er als volgt uitzien:
